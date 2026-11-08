@@ -6,7 +6,7 @@ The dashboard brings key business metrics together in one place, helping stakeho
 
 ## Dashboard Preview
 
-![TNMT Revenue Dashboard](images/tnmt-revenue-dashboard.png)
+![TNMT Revenue Dashboard](tnmt_dashboard.png)
 
 ## Project Overview
 
